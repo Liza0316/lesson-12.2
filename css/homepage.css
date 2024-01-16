@@ -38,7 +38,7 @@ header .header .header-list {
 }
 header .header .header-button-a {
   display: flex;
-  gap: 30px;
+  gap: 31px;
   align-items: center;
 }
 header .header .button-header {
